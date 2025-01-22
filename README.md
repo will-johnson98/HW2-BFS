@@ -1,3 +1,5 @@
+![BuildStatus](https://github.com/will-johnson98/HW2-BFS/actions/workflows/main.yml/badge.svg?event=push)
+
 # Assignment 2
 Breadth-first search
 
