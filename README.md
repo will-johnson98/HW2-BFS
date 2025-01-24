@@ -32,6 +32,7 @@ In test/test_bfs.py:
 
 * Write unit tests (in the test_bfs.py file) for your breadth first search
 
+---
 > Replace these instructions with a brief description of bfs in your forked repo
 
 Breadth-first search (BFS) traverses a graph by exploring all nodes at the current depth before moving deeper. In these scripts, BFS serves two functions:
@@ -43,7 +44,8 @@ Breadth-first search (BFS) traverses a graph by exploring all nodes at the curre
 The implementation uses a queue to maintain the frontier of nodes to explore, with visited tracking to avoid cycles. In this citation network, BFS reveals citation relationships, with paths showing how papers and faculty are connected through citations.
 
 Key property: Any path found by BFS in these networks represents the shortest citation chain between two nodes.
-	
+
+---
 * Automate Testing with a [Github Actions](https://docs.github.com/en/actions)
 
 	See blogposts below on helping set up github actions with pytest:
